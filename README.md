@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @codingpsyc
-- 👀 I’m interested in learning to programm and trade
-- 🌱 I’m currently learning c programming
+- 👀 I’m interested in learning to programming and trading
+- 🌱 I’m interested in java and python 
 - 💞️ I’m looking to collaborate on youtube
-- 📫 How to reach me via whatsapp or instagram
+- 📫 insta id : l.e.v.i.t.a.r.d
+- 
 
 <!---
 codingpsyc/codingpsyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
